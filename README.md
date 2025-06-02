@@ -34,6 +34,18 @@ super_trunfo.exe
 
 3. Insira os dados das cartas conforme solicitado.
 
+## Super Trunfo – Batalha de Cartas (Nível Mestre)
+
+O programa realiza os seguintes cálculos:
+
+- Densidade Populacional
+
+- PIB per Capita
+
+- Super Poder (soma dos atributos com peso especial para densidade)
+
+Depois, compara as cartas atributo por atributo, informando qual delas vence em cada categoria. É uma aplicação prática de lógica, operadores, tipos numéricos e comparação em C.
+
 ### Execução do Programa online
 ## Desafio: nível novato
 ![Excusão do Sistema](nivel_novato.jpg)
