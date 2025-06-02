@@ -46,7 +46,7 @@ Suelen Maria Kuminck
 
 Este projeto foi desenvolvido como parte do desafio de programação do curso Análise e Desenvolvimento de Sistemas.
 
-![Exemplo de execução](foto.jpg)
+![Exemplo de execução](super_trunfo.c/Foto.jpg)
 
 
 
