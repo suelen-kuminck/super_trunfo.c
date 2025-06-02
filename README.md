@@ -39,7 +39,7 @@ super_trunfo.exe
 ![Excusão do Sistema](nivel_novato.jpg)
 
 ## Desafio: nível aventureiro e nível mestre
-![Excusão do Sistema_2_3](nivel_aventureiro_mestre.jpg)
+![Excusão do Sistema](nivel_aventureiro_mestre.jpg)
 
 ## Observações
 
