@@ -3,7 +3,7 @@
 Este projeto é um programa simples em C para cadastrar cartas do jogo Super Trunfo com tema "Países".  
 O programa permite registrar informações de duas cartas com dados como estado, código, nome da cidade, população, área, PIB e pontos turísticos.
 
-## Como usar
+### Como usar
 
 ### Opção 1: Executar online (recomendado para iniciantes)
 
@@ -34,7 +34,7 @@ super_trunfo.exe
 
 3. Insira os dados das cartas conforme solicitado.
 
-## Super Trunfo – Batalha de Cartas (Nível Mestre)
+### Super Trunfo – Batalha de Cartas (Nível Mestre)
 
 O programa realiza os seguintes cálculos:
 
@@ -47,19 +47,19 @@ O programa realiza os seguintes cálculos:
 Depois, compara as cartas atributo por atributo, informando qual delas vence em cada categoria. É uma aplicação prática de lógica, operadores, tipos numéricos e comparação em C.
 
 ### Execução do Programa online
-## Desafio: nível novato
+### Desafio: nível novato
 ![Excusão do Sistema](nivel_novato.jpg)
 
-## Desafio: nível aventureiro e nível mestre
+### Desafio: nível aventureiro e nível mestre
 ![Excusão do Sistema](nivel_aventureiro_mestre)
 
-## Observações
+### Observações
 
 Este projeto foi desenvolvido como parte do desafio de programação do curso Análise e Desenvolvimento de Sistemas.
 
 ---
 
-## Autor
+### Autor
 
 Suelen Maria Kuminck
 
