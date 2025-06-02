@@ -35,8 +35,11 @@ super_trunfo.exe
 3. Insira os dados das cartas conforme solicitado.
 
 ### Execução do Programa online
-
+## Desafio: nível novato
 ![Excusão do Sistema](Foto.jpg)
+
+## Desafio: nível aventureiro e nível mestre
+![Excusão do Sistema_2_3](execucao_fundamentos_tecnicas.jpg)
 
 ## Observações
 
