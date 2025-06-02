@@ -5,7 +5,7 @@ O programa permite registrar informações de duas cartas com dados como estado,
 
 ## Como usar
 
-### 🧪 Opção 1: Executar online (recomendado para iniciantes)
+### Opção 1: Executar online (recomendado para iniciantes)
 
 Você pode testar o programa facilmente online, sem instalar nada, acessando:  
 👉 [https://www.onlinegdb.com/online_c_compiler](https://www.onlinegdb.com/online_c_compiler)
@@ -14,7 +14,7 @@ Você pode testar o programa facilmente online, sem instalar nada, acessando:
 2. Cole o código fonte no editor.  
 3. Clique em **Run** para compilar e executar.
 
-### 🧰 Opção 2: Compilar e rodar localmente (requer GCC)
+### Opção 2: Compilar e rodar localmente (requer GCC)
 
 1. Compile o código usando um compilador C, por exemplo:  
 ````
@@ -34,6 +34,14 @@ super_trunfo.exe
 
 3. Insira os dados das cartas conforme solicitado.
 
+### Execução do Programa online
+
+![Excusão do Sistema](Foto.jpg)
+
+## Observações
+
+Este projeto foi desenvolvido como parte do desafio de programação do curso Análise e Desenvolvimento de Sistemas.
+
 ---
 
 ## Autor
@@ -41,15 +49,6 @@ super_trunfo.exe
 Suelen Maria Kuminck
 
 ---
-
-## Observações
-
-Este projeto foi desenvolvido como parte do desafio de programação do curso Análise e Desenvolvimento de Sistemas.
-
-
-### Execução do Programa online
-
-![Excusão do Sistema](Foto.jpg)
 
 
 
