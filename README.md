@@ -36,10 +36,10 @@ super_trunfo.exe
 
 ### Execução do Programa online
 ## Desafio: nível novato
-![Excusão do Sistema](Foto.jpg)
+![Excusão do Sistema](nivel_novato.jpg)
 
 ## Desafio: nível aventureiro e nível mestre
-![Excusão do Sistema_2_3](execucao_fundamentos_tecnicas.jpg)
+![Excusão do Sistema_2_3](nivel_aventureiro_mestre.jpg)
 
 ## Observações
 
